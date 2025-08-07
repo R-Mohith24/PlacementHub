@@ -5,7 +5,7 @@ A centralized web application designed to simplify and streamline the academic a
 
 <hr>
 
-<h2 style="color: #ff6600;">👨‍💻 Made With ❤️ by Mohith R</h2>
+<h2 style="color: #ff6600;">👨‍💻 DESC</h2>
 <p>
 This project is a result of hands-on application of full-stack web development, built with modern technologies like 
 <strong>React.js</strong>, <strong>Tailwind CSS</strong>, and <strong>Supabase</strong>. It provides students with tools to build a strong academic and professional profile while giving colleges a streamlined platform for placement management.
@@ -73,16 +73,6 @@ This project is a result of hands-on application of full-stack web development, 
 
 <hr>
 
-<h2>📸 Screenshots</h2>
-<ul>
-  <li>Student Dashboard</li>
-  <li>Resume Builder</li>
-  <li>Skill Suggestions Tool</li>
-  <li>College Login & Dashboard</li>
-  <li>Placement Analytics</li>
-</ul>
-<p><em>(Tip: Add screenshots and embed them here using <code>&lt;img src="path/to/image.png" width="600"&gt;</code>)</em></p>
-
 <hr>
 
 <h2>🏁 Getting Started</h2>
@@ -97,15 +87,6 @@ npm run dev
 
 <p>Set up your <code>.env</code> with Supabase credentials before running.</p>
 
-<hr>
-
-<h2>📬 Contact</h2>
-<p>
-For questions or collaborations:<br>
-<strong>Name:</strong> Mohith R<br>
-<strong>GitHub:</strong> <a href="https://github.com/R-Mohith24">R-Mohith24</a><br>
-<strong>Email:</strong> (add if you want)
-</p>
 
 <hr>
 
